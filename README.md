@@ -1,13 +1,13 @@
 ### Hi Developers 👋
 
 [![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/channel/UCromegyIuNeYJ18e_Q7TG6Q)
-[![Linkedin Badge](https://img.shields.io/badge/-Guneshwar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/nongthombam-guneshwar-singh-09b156247/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Nongthombam Guneshwar Singh-green)]()
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Nongthombam Guneshwar Singh-yellow)](https://stackoverflow.com/users/19652226/nongthombam-guneshwar-singh)
+[![Linkedin Badge](https://img.shields.io/badge/-GuneshwarNong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nongthombam-guneshwar-singh-09b156247/)](https://www.linkedin.com/in/nongthombam-guneshwar-singh-09b156247/)
+[![Website Badge](https://img.shields.io/badge/WebSite-GuneshwarNong-green)]()
+[![Website Badge](https://img.shields.io/badge/StackOverflow-GuneshwarNong-yellow)](https://stackoverflow.com/users/19652226/nongthombam-guneshwar-singh)
 
 I'm
-Full Stack Solution Architect
-The crossover between design and programming has always been of interest to me, I've been lucky enough to work alongside some talented teams on a number of high profile websites. I have a wide range of skills that include back-end development using open source technologies (NodeJs, Python), design (working closely with designers), front-end development (React, Angular9, ReactJs, HTML5, CSS3, Javascript, Responsive, UX), Server Administrator(AWS, GCP, Azure),database(MongoDB,cassendra,Mysql), CI/CD(Docker, kubernetes)
+Intern at Edureka
+Currently steeping to the world of Software development & learing Full Stack Web Development Internship Program at Edureka. Beside also working as Field Executive technical at Digital india Corporation.
 
 
 ![Visitor Count](https://profile-counter.glitch.me/GuneshwarNong/count.svg)
