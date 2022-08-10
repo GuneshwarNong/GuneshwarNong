@@ -6,7 +6,7 @@
 [![Website Badge](https://img.shields.io/badge/StackOverflow-GuneshwarNong-yellow)](https://stackoverflow.com/users/19652226/nongthombam-guneshwar-singh)
 
 I'm
-Intern at Edureka
+a beginner,
 Currently steeping to the world of Software development & learing Full Stack Web Development Internship Program at Edureka. Beside also working as Field Executive technical at Digital india Corporation.
 
 
